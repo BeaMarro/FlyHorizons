@@ -73,7 +73,7 @@ The app microservices run on **Azure Kubernetes Service (AKS)** and use:
 A system architecture diagram, as a C3 diagram, can be found below:
 
 ```markdown
-![Architecture](./docs/architecture.png)
+![Architecture](C3 diagram.drawio.png)
 ```
 
 ## 📄 License

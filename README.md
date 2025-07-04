@@ -34,6 +34,7 @@ Here are the main services in this system:
 | Airport Service | Manages airports | [airport-service](https://github.com/beamarro/flyhorizons-airport-service) |
 | User Service | Manages user and admin accounts | [user-service](https://github.com/beamarro/flyhorizons-user-service) |
 | API Gateway | Routes all requests and adds security | [api-gateway](https://github.com/beamarro/flyhorizons-api-gateway) |
+| Frontend Web Application | Displaying the web application and all its functionalities for the users and admins | [web-app](https://github.com/beamarro/flyhorizons-frontend-application) |
 
 ---
 
